@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AWS, Aliyun, Typescript
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 feel free to reach me at shengzhen.dev@gmail.com
-- I like play :basketball: basketball :badminton: badminton and piano :musical notes:
+- I like play :basketball: basketball :badminton: badminton and piano :musical_keyboard:
 
 
 <!---
