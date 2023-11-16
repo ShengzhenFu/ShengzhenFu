@@ -25,6 +25,7 @@
 
 *   [Build a private NPM on AWS CodeArtifact](https://github.com/ShengzhenFu/cdk-npm-package-to-codeartifact/tree/demo)
 *   [Continuous deploy Lambda & ApiGateway by AWS CodePipeline in CDK](https://github.com/ShengzhenFu/cdk-codepipeline-lambda-apigw)
+*   [Deploy Spring boot app in Jenkins](https://github.com/ShengzhenFu/spring-boot-helloworld/tree/main)
 *   [Hugo doc in github io](https://shengzhenfu.github.io/)
 
 **Typescript**
