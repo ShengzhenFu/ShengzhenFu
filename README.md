@@ -11,6 +11,7 @@
 *   [AWS Lambda Container CDK](https://github.com/ShengzhenFu/lambda-container-cdk)
 *   [AWS EC2 in CDK](https://github.com/ShengzhenFu/kmwdpoh-162738)
 *   [Full Stack App on AWS CDK - cloudfront & fargate](https://github.com/ShengzhenFu/cdk-cloudfront-alb-fargate-demo)
+*   [LocalStack + Terraform + Lambda + Apigateway + Go](https://github.com/ShengzhenFu/go-lambda-apigateway-terraform)
 
 **Azure**
 
