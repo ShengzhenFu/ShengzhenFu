@@ -33,6 +33,9 @@
 
 *   [Typescript learning](https://github.com/ShengzhenFu/my-typescript-tutorial)
 
+**Love of Terminal**
+*   [Tmux, Neovim workflow](https://github.com/ShengzhenFu/dotfiles)
+
 ## 📃 Certifications
 
 *   [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/f3508d39-4e73-417f-a4c9-dc317be538fd/public_url)
