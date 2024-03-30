@@ -21,6 +21,7 @@
 
 *   [Deploying AWS EC2 via Terraform](https://github.com/ShengzhenFu/terraform-examples/tree/main/aws/ec2)
 *   [Provisoin Azure VM via Terraform](https://github.com/ShengzhenFu/terraform-examples/tree/main/azure)
+*   [EKS homelab by Terraform](https://github.com/ShengzhenFu/eks-terraform-homelab)
 
 **DevOps Projects**
 
