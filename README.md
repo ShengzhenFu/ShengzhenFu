@@ -36,7 +36,7 @@
 
 **Love of Terminal**
 *   [Tmux, Neovim workflow](https://github.com/ShengzhenFu/dotfiles)
-*   [Play mp3 on termianl - moc](https://github.com/ShengzhenFu/my-markdown-notes/blob/main/moc_on_macos.md)
+*   [Play mp3 on terminal - moc](https://github.com/ShengzhenFu/my-markdown-notes/blob/main/moc_on_macos.md)
 
 ## 📃 Certifications
 
