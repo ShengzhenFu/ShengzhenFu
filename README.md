@@ -1,7 +1,7 @@
 ## Hi, I'm Shengzhen, Welcome To My GitHub !
 
 *   👀 I’m interested in DevOps/SRE
-*   🌱 I’m experienced in AWS
+*   🌱 I’m experienced in AWS, Kubernetes, Helm
 *   💞️ I like play :basketball: basketball :badminton: badminton and piano :musical_keyboard:
 
 ## ☁ My Projects on Cloud
