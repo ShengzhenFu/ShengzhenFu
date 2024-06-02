@@ -29,6 +29,7 @@
 *   [Continuous deploy Lambda & ApiGateway by AWS CodePipeline in CDK](https://github.com/ShengzhenFu/cdk-codepipeline-lambda-apigw)
 *   [Deploy Spring boot app in Jenkins](https://github.com/ShengzhenFu/spring-boot-helloworld/tree/main)
 *   [Hugo doc in github io](https://shengzhenfu.github.io/)
+*   [A Drone-ci project in Golang](https://github.com/ShengzhenFu/drone-project)
 
 **Typescript**
 
