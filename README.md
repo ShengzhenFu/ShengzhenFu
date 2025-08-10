@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/shengzhen-fu-06599441/)
 [![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://shengzhen.cloud/)
 
-## Infrastructure & Cloud Engineer
+## Infrastructure Engineer
 
 I'm passionate about Infrastructure, DevOps, Terraform, CDK. With expertise in monitoring, kubernetes and automation, I help organizations build up infrastructure at scale.
 
