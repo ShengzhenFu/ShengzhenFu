@@ -11,9 +11,10 @@ I'm passionate about Infrastructure, DevOps, Terraform, CDK. With expertise in m
 
 - **Infrastructure Automation** - Terraform, Cloud-init, CDK, Ansible.
 - **Container Orchestration** - Kubernetes, Podman, Docker
-- **Cloud Platforms** - AWS, Azure, Alibaba cloud
+- **Clouders** - AWS, Azure, Alibaba cloud
 - **CI/CD Pipelines** - AWS CodePipeline, CircleCI, Jenkins, GitHub Actions
 - **Monitoring & Observability** - Prometheus, Grafana, Opentelemetry, Fluent-bit, Kibana, CloudWatch, Datadog
+- **Internal Developer Platform** - Backstage
 - **Infra Security** - Anti-DDoS, WAF, Vault(Hashicorp), Snyk, CVEs, Lacework
 
 ## My Tech Stack
