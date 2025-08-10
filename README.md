@@ -14,6 +14,7 @@ I'm passionate about Infrastructure, DevOps, Terraform, CDK. With expertise in m
 - **Cloud Platforms** - AWS, Azure, Alibaba cloud
 - **CI/CD Pipelines** - AWS CodePipeline, CircleCI, Jenkins, GitHub Actions
 - **Monitoring & Observability** - Prometheus, Grafana, Opentelemetry, Fluent-bit, Kibana, CloudWatch, Datadog
+- **Infra Security** - Anti-DDoS, WAF, Vault(Hashicorp), Snyk, CVEs, Lacework
 
 ## My Tech Stack
 
