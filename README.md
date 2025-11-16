@@ -9,7 +9,7 @@ I'm passionate about Infrastructure, DevOps, Terraform, CDK. With expertise in m
 
 ## Experiences i have
 
-- **Infrastructure Automation** - Terraform, Cloud-init, CDK, Ansible.
+- **Infrastructure As Code** - Terraform, Cloud-init, CDK, Ansible.
 - **Container Orchestration** - Kubernetes, Podman, Docker
 - **Clouders** - AWS, Azure, Alibaba cloud
 - **CI/CD Pipelines** - AWS CodePipeline, CircleCI, Jenkins, GitHub Actions
