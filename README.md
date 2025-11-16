@@ -42,6 +42,7 @@ I'm passionate about Infrastructure, DevOps, Terraform, CDK. With expertise in m
 *   [AWS EC2 in CDK](https://github.com/ShengzhenFu/kmwdpoh-162738)
 *   [Full Stack App on AWS CDK - cloudfront & fargate](https://github.com/ShengzhenFu/cdk-cloudfront-alb-fargate-demo)
 *   [LocalStack + Terraform + Lambda + Apigateway + Go](https://github.com/ShengzhenFu/go-lambda-apigateway-terraform)
+*   [AWS SSO Credentials Sync CLI tool](https://github.com/ShengzhenFu/aws-sso-creds-sync)
 
 **Azure**
 
