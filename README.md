@@ -32,6 +32,7 @@ I'm passionate about Infrastructure, DevOps, Terraform, CDK. With expertise in m
   <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
   <img alt="Zsh" src="https://img.shields.io/badge/-Zsh-4EAA25?style=flat-square&logo=gnu-bash&logoColor=green" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white">
 </p>
 
 ## ☁ My Projects on Cloud
