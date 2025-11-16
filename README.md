@@ -78,7 +78,7 @@ I'm passionate about Infrastructure, DevOps, Terraform, CDK. With expertise in m
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [blog with Obsidian and Hugo and automation via CDK](https://blog.shengzhen.cloud/posts/blogs/my-blog-post-pipeline/index.html)
+- [blog with Obsidian and Hugo and Host it on AWS using CDK](https://blog.shengzhen.cloud/posts/my-blog-post-pipeline/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 
